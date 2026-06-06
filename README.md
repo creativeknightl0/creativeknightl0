@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+It's a repository with zero AI used for starters.
 <!--
 **creativeknightl0/creativeknightl0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
