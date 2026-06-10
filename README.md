@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 It's a repository with 0.00000000% AI used for starters.
+
+Old account I lost due to 2 factor authentication was - https://github.com/anirudh357
 <!--
 **creativeknightl0/creativeknightl0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
