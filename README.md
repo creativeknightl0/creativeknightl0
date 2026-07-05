@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-It's a repository with 0.00000000% AI used in getting help, not prohibited from using the foundational models to build application on top of it or creating those foundational ml models from scratch but no help from AI for any code generation, logic help for starters info rest I am still processing its takes time for me duhhh...
+It's a repository with 0.00000000% AI used in getting help, not prohibited from using the foundational models to build application on top of it or creating those foundational ml models from scratch but no help from AI for any code generation, logic help and no copy-paste as I am using Arch Linux for pushing my code lol for starters info rest I am still processing its takes time for me duhhh...
 
 Old account I lost due to 2 factor authentication was - https://github.com/anirudh357
 <!--
