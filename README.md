@@ -1,1 +1,1 @@
-## Fuck!
+## Fight like a knight!
