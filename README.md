@@ -1,1 +1,1 @@
-## Fight like a knight!
+## Fight like a Knight!
